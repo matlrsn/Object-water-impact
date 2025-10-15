@@ -133,3 +133,4 @@ Feel free to adapt the parameters and physical models to match experimental data
 3. Use advanced resolution techniques for more accurate fluid simulation
 4. Make a 2D or 3D animation for improved visual representation
 5. Buoyancy can be improved, depending on the shape and parameters of the object, it sometimes sinks and sometimes do not.
+6. Add a physical limit to model free fall maximum Velocity, otherwise velocity goes over theoretical maximum.
