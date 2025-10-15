@@ -1,4 +1,6 @@
-# Object Impact and Water Immersion Simulation
+# Object impact and water immersion simulation
+
+**Disclaimer** : This python script is a work in progress, there are a number of physical innacuracies. This script can be used for educational purposes.
 
 This Python script simulates the **vertical fall and water entry** of an object (either a **cylinder** or a **cone**) into water.  
 It models the **forces, dynamics, and resulting motion** during the impact and submersion phases using a Runge-Kutta integration.
